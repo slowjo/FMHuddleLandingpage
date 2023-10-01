@@ -107,7 +107,7 @@ button:hover {
     width: 28px;
     height: 28px;
     padding: 4px;
-    border: 2px solid currentColor;
+    border: 1px solid currentColor;
     border-radius: 50%;
     color: #fff;
     display: flex;
@@ -116,8 +116,8 @@ button:hover {
 }
 
 .social-links svg {
-    width: 75%;
-    height: 75%;
+    width: 59%;
+    height: 59%;
     color: #fff;
 }
 
