@@ -126,23 +126,6 @@ button:hover {
     color: hsl(300, 74%, 53%);
 }
 
-/* footer {
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-    bottom: 8px;
-    width: 100%;
-} */
-
-.placeholder {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    height: 40px;
-    width: 200px;
-    background: red;
-}
-
 @media (min-width: 750px) {
     body {
         background: url('./images/bg-desktop.svg') no-repeat center center/cover;
@@ -157,8 +140,6 @@ button:hover {
     }
 
     header img {
-        width: 215px;
-        /* 215 + 2 * 6px padding = 227px */
         width: 227px;
         padding-inline: 6px;
     }
